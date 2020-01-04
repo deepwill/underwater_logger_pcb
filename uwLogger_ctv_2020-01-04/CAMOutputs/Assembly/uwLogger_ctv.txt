@@ -1,0 +1,28 @@
+
+
+Qty Value        Device         Package      Parts               Description                                           MF MPN          OC_FARNELL OC_NEWARK SPICEMODEL SPICEPREFIX
+1                CRYSTALMM20SS  MM20SS       Q1                  CRYSTAL                                                               unknown    unknown                         
+1                JP2E           JP2          SELECT              JUMPER                                                                                                           
+3                MA04-1         MA04-1       SV2, SV4, SV5       PIN HEADER                                                            unknown    unknown                         
+1                MA07-1         MA07-1       SV1                 PIN HEADER                                                            unknown    unknown                         
+1                MTA06-100      10X06MTA     SPI_PROGR           AMP connector                                                                                                    
+1                ST6,3          ST6,3        X2                  RIBBON CABLE CONNECTOR                                                unknown    unknown                         
+5   100nf        C              C0805        C1, C3, C4, C7, C10 CAPACITOR, European symbol                                                                 NONE       C          
+1   104          C              C0805        C8                  CAPACITOR, European symbol                                                                 NONE       C          
+1   10k          R-EU_M0805     M0805        R1                  RESISTOR, European symbol                                                                                        
+1   10uf         C              C0805        C9                  CAPACITOR, European symbol                                                                 NONE       C          
+1   1MTBC        R-EU_M0805     M0805        R3                  RESISTOR, European symbol                                                                                        
+1   1N4007       PMLL4150       SOD80C       D1                  DIODE                                                                                                            
+2   1uf          C              C0805        C2, C6              CAPACITOR, European symbol                                                                 NONE       C          
+2   4k7          R-EU_R0805     R0805        R6, R13             RESISTOR, European symbol                                                                                        
+3   50k          R-EU_M0805     M0805        R8, R9, R10         RESISTOR, European symbol                                                                                        
+2   6X6MMPUSHSMD 6X6MMPUSHSMD   6X6MMPUSHSMD U$1, U$2                                                                                                                             
+1   DCF ausgang  LSP10          LSP10        OPT-                SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                                            
+1   MCP1703DB    MCP1703DB      SOT223       IC2                 250 mA, 16V, Low Quiescent Current LDO Regulator                                                                 
+1   MEGA8-AI     MEGA8-AI       TQFP32-08    IC1                 MICROCONTROLLER                                          ATMEGA8-16AU 9171371    73M8863                         
+1   RG_LED       RG_LED         RG_LED       U$3                 https://es.rs-online.com/web/p/products/8608848/                                                                 
+1   SFH482       SFH482         SFH482       SENS_LED            IR LED                                                                                                           
+2   TBD          R-EU_M0805     M0805        R7, R12             RESISTOR, European symbol                                                                                        
+1   adc1         THERMISTOR-2,5 RS-2,5       R2                  THERMISTOR                                                                                                       
+1   adc2         THERMISTOR-2,5 RS-2,5       R11                 THERMISTOR                                                                                                       
+2   tbd          R-EU_M0805     M0805        R4, R5              RESISTOR, European symbol                                                                                        

@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-04T13:58:45Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "uwLogger_ctv"
+        },
+        "Owner": "nim parker <nimparkeren@gmail.com>",
+        "Size": {
+            "X": 68.504,
+            "Y": 38.598
+        }
+    }
+}
